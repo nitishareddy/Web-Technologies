@@ -1,4 +1,4 @@
-# Web-Technologies
+# Web-Technologies-PHP
 
 Homework 6: Travel and Entertainment Search Server-side Scripting
 1. Objectives
